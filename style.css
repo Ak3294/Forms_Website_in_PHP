@@ -1,0 +1,19 @@
+/* index.php style */
+.container .text-center{
+    text-decoration: underline;
+}
+.container .form-check form-check-inline{
+    display: inline;
+}
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    /* margin-top: -1px; */
+}
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
